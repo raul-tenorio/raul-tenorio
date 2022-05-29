@@ -8,3 +8,4 @@ I'm a software development student who is passionate about all things technology
 - 🗨 Discord: radulh#9361
 - 🔴 Youtube: <a href="https://www.youtube.com/c/radulh">radulh</a> 
 - 🔷 SoloLearn: <a href="https://www.sololearn.com/profile/9535040">Raúl Tenorio</a> 
+- 🎟 Replit: <a href="https://replit.com/@raultenorio">@raultenorio</a> 
