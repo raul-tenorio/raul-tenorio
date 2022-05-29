@@ -6,5 +6,5 @@ I'm a software development student who is passionate about all things technology
 - 📜Personal e-mail: tenorio0967@hotmail.com
 - 📜Contact e-mail: tenorio0967@gmail.com
 - 🗨 Discord: radulh#9361
-- 🔴 <a href="https://www.youtube.com/c/radulh">YouTube</a> 
-- 🔷 <a href="https://www.sololearn.com/profile/9535040">SoloLearn</a> 
+- 🔴 Youtube: <a href="https://www.youtube.com/c/radulh">radulh</a> 
+- 🔷 SoloLearn: <a href="https://www.sololearn.com/profile/9535040">Raúl Tenorio</a> 
