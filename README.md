@@ -1,5 +1,5 @@
 # Hi, I'm Raúl 👋🧑‍💻
-
+<img src="./github_banner.png" alt="Banner that says Raúl Tenorio - software development student & banking software developer alongside a cartoon illustration of Raúl">
 - 🔭 I’m currently working on Soft Warehouse S.A.
 - 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on Web Design proyects
