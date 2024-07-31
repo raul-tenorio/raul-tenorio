@@ -1,10 +1,8 @@
-# Hola, me llamo Raúl 👋🧑‍💻
-<img src="./banner.jpg" alt="Banner that says Raúl Tenorio - software development student & banking software developer alongside a cartoon illustration of Raúl">
-Soy un desarrollador de software al cual le interesa bastante la tecnología. 🔭 Me gusta colaborar en proyectos y trabajar en equipo y actualmente trabajo en la empresa Soft Warehouse S.A. como desarrollador de software bancario ejerciendo tareas como implementación de soluciones, control de calidad y soporte. 🕵️‍♀️ También, tengo buenos conocimientos en cuanto a lenguajes de programación como Java y Python, manejo desarrollo web y móvil y finalmente puedo trabajar en aplicativos de escritorio y sistemas operativos como Windows y Linux. ⚡
+# Hola! Me llamo Raúl Tenorio 👋🧑‍💻
+<img src="./banner.png" alt="Banner de presentación personal de Raúl Tenorio">
+Soy un desarrollador de software ecuatoriano de 22 años! Me interesan los temas de innovación y mejoras tecnológicas, personalmente me gusta el aprendizaje continuo. Tengo experiencia en diseñar e implementar soluciones en base a requerimientos ya sean de tipo desarrollos para la web, aplicaciones móviles o de escritorio. 🔭 También he trabajado con gestión de calidad y soporte de proyectos, conozco el manejo de herramientas colaborativas de desarrollo como GitHub, GitLab y Sourcetree (Git en general), además las de planificación y modelado como Illustrator, Photoshop, Adobe Premiere, After Effects, Canva, Figma y Lucid Chart. Los lenguajes de programación que mayormente manejo es Python, Java, JavaScript, PHP, C y C++, conozco la implementación de proyectos con React, ReactNative, Angular y Laravel. Los IDE's que usualmente uso son Visual Studio Code y NetBeans. Tengo la capacidad para armar la arquitectura completa de un sistema de base de datos con SQL. Finalmente, los sistemas operativos con los que convivo mi día a día son Windows y Linux de los cuales tengo un buen manejo de cada SO en cuestión de comandos. ⚡
 
 # Encuéntrame alrededor de la web 🌎:
 - 🗨 Discord: radulh#9361
 - 📜 Correo personal: tenorio0967@hotmail.com
 - 📜 Correo de contacto: tenorio0967@gmail.com
-- 🔷 SoloLearn: <a href="https://www.sololearn.com/profile/9535040">Raúl Tenorio</a>
-- 🎟  Replit: <a href="https://replit.com/@raultenorio">@raultenorio</a>
